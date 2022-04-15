@@ -2,10 +2,10 @@
 Ethereum-based blockchain electronic voting system
 
 
-knut_token contract
+# knut_token contract
 ![knut_sol](https://user-images.githubusercontent.com/48666403/163320390-49e85ca7-a95c-4bd3-aa4a-5efc452ad594.png)
 
-ether scan
+# Ether scan  - https://ropsten.etherscan.io/token/0xf155b0a457599918ce1b20a73adec2e9aae117f0
 ![etherscan1](https://user-images.githubusercontent.com/48666403/163320446-cd39d249-13c7-4698-87c8-fef69246d276.png)
 
 
